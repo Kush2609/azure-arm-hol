@@ -1,7 +1,7 @@
 #Azure Resource Manager Templates Hands-on Labs
 These hands-on labs are designed to help you get familiar with Azure Resource Manager.
 
-#Prerequisites
+#Prerequisites   
 Before you can complete the labs you need a few things (note you can use either PowerShell or Xplat-CLI)
 - [Azure PowerShell](https://github.com/Azure/azure-powershell/releases)
 - [Microsoft Azure Xplat-CLI](https://github.com/Azure/azure-xplat-cli/releases)
