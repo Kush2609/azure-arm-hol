@@ -1,4 +1,4 @@
-#Azure Resource Manager Templates Hands-on Labs
+#Azure Resource Manager Templates Hands-on Labs  
 These hands-on labs are designed to help you get familiar with Azure Resource Manager.
 
 #Prerequisites      
