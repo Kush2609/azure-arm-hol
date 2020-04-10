@@ -8,6 +8,7 @@ Before you can complete the labs you need a few things (note you can use either 
 - [An Azure Subscription](https://azure.microsoft.com/) (a trial account is fine)
 - [Visual Studio Code](https://code.visualstudio.com/) (or another text editor capable of highligting JSON, for you own sake don't use notepad)
 
+
 #The structure
 The labs are organized in steps. The steps are meant to be completed from the first to the last. Each step contains a readme.md file that describes what the step is about, and two folders:
 - begin
